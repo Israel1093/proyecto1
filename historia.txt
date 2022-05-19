@@ -1,4 +1,0 @@
-hola soy israel
-mi apellido es morales
-mi edad es 28
-esto edite desde github
